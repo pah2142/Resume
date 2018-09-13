@@ -7,3 +7,7 @@
 [HPU's Website](https://www.hpu.edu/)
 ### M.A. Climate and Society, Columbia University
 [Columbia's Website](https://www.columbia.edu/)
+## Research Interests
+1. Enceladus (Saturn II)
+2. Europa (Jupiter II)
+3. Ganymede (Jupiter III)
